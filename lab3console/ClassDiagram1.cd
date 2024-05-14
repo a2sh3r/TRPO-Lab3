@@ -86,7 +86,7 @@
   <Class Name="VehicleNamespace.CarPark">
     <Position X="15" Y="0.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAEAAKABQAAAAAAAAAAIIAAAAAAAAAIAgAAAAAAAAA=</HashCode>
+      <HashCode>AgAEAAKABQAAAAAAAAAAIIAAAAAAAAAIAgAAAAAAAAA=</HashCode>
       <FileName>Program.cs</FileName>
     </TypeIdentifier>
   </Class>
@@ -125,5 +125,19 @@
       <FileName>Program.cs</FileName>
     </TypeIdentifier>
   </Interface>
+  <Delegate Name="VehicleNamespace.ChargeAction">
+    <Position X="18.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="VehicleNamespace.RefuelAction">
+    <Position X="18.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
   <Font Name="Segoe UI" Size="9" />
 </ClassDiagram>

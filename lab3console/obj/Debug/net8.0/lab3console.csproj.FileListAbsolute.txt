@@ -12,3 +12,4 @@ C:\Users\killa\source\repos\lab3console\lab3console\obj\Debug\net8.0\refint\lab3
 C:\Users\killa\source\repos\lab3console\lab3console\obj\Debug\net8.0\lab3console.pdb
 C:\Users\killa\source\repos\lab3console\lab3console\obj\Debug\net8.0\lab3console.genruntimeconfig.cache
 C:\Users\killa\source\repos\lab3console\lab3console\obj\Debug\net8.0\ref\lab3console.dll
+C:\Users\killa\source\repos\lab3console\lab3console\obj\Debug\net8.0\lab3console.sourcelink.json

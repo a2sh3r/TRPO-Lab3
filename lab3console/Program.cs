@@ -6,7 +6,6 @@ namespace VehicleNamespace
     // Делегаты
     public delegate void ChargeAction(IElectricVehicle vehicle);
     public delegate void RefuelAction(IFuelVehicle vehicle);
-    public delegate void LogAction(string message);
 
     // Интерфейсы
     public interface IVehicle
@@ -134,7 +133,9 @@ namespace VehicleNamespace
     // Класс для автопарка
     public class CarPark
     {
-        
+        public event ChargeAction VehicleCharged;
+        public event RefuelAction VehicleRefueled;
+
         private List<Vehicle> vehicles;
 
         public CarPark()
@@ -234,6 +235,8 @@ namespace VehicleNamespace
                 {
                     chargeAction(ev);
                     LogToFile($"Charging {vehicle.Model}");
+
+                    VehicleCharged?.Invoke(ev);
                 }
             }
         }
@@ -246,6 +249,8 @@ namespace VehicleNamespace
                 {
                     refuelAction(fv);
                     LogToFile($"Refueling {vehicle.Model}");
+
+                    VehicleRefueled?.Invoke(fv);
                 }
             }
         }

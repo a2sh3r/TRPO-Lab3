@@ -18,15 +18,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\killa\\source\\repos\\lab3console\\lab3console\\Program.cs",
+              "RelativeDocumentMoniker": "lab3console\\Program.cs",
+              "ToolTip": "C:\\Users\\killa\\source\\repos\\lab3console\\lab3console\\Program.cs",
+              "RelativeToolTip": "lab3console\\Program.cs",
+              "ViewState": "AQIAAG4BAAAAAAAAAAAAAHkBAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T09:22:43.871Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -38,19 +47,6 @@
               "RelativeToolTip": "lab3console\\ClassDiagram1.cd",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
               "WhenOpened": "2024-05-14T06:38:11.58Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\killa\\source\\repos\\lab3console\\lab3console\\Program.cs",
-              "RelativeDocumentMoniker": "lab3console\\Program.cs",
-              "ToolTip": "C:\\Users\\killa\\source\\repos\\lab3console\\lab3console\\Program.cs",
-              "RelativeToolTip": "lab3console\\Program.cs",
-              "ViewState": "AQIAAMMAAAAAAAAAAAAowHYAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T06:28:30.734Z",
               "EditorCaption": ""
             }
           ]
