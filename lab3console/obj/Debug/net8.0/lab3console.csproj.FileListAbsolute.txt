@@ -1,0 +1,14 @@
+C:\Users\killa\source\repos\lab3console\lab3console\obj\Debug\net8.0\lab3console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\killa\source\repos\lab3console\lab3console\obj\Debug\net8.0\lab3console.AssemblyInfoInputs.cache
+C:\Users\killa\source\repos\lab3console\lab3console\obj\Debug\net8.0\lab3console.AssemblyInfo.cs
+C:\Users\killa\source\repos\lab3console\lab3console\obj\Debug\net8.0\lab3console.csproj.CoreCompileInputs.cache
+C:\Users\killa\source\repos\lab3console\lab3console\bin\Debug\net8.0\lab3console.exe
+C:\Users\killa\source\repos\lab3console\lab3console\bin\Debug\net8.0\lab3console.deps.json
+C:\Users\killa\source\repos\lab3console\lab3console\bin\Debug\net8.0\lab3console.runtimeconfig.json
+C:\Users\killa\source\repos\lab3console\lab3console\bin\Debug\net8.0\lab3console.dll
+C:\Users\killa\source\repos\lab3console\lab3console\bin\Debug\net8.0\lab3console.pdb
+C:\Users\killa\source\repos\lab3console\lab3console\obj\Debug\net8.0\lab3console.dll
+C:\Users\killa\source\repos\lab3console\lab3console\obj\Debug\net8.0\refint\lab3console.dll
+C:\Users\killa\source\repos\lab3console\lab3console\obj\Debug\net8.0\lab3console.pdb
+C:\Users\killa\source\repos\lab3console\lab3console\obj\Debug\net8.0\lab3console.genruntimeconfig.cache
+C:\Users\killa\source\repos\lab3console\lab3console\obj\Debug\net8.0\ref\lab3console.dll
